@@ -16,7 +16,9 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/rodrigoverna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rodrigoverna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/rodrigo_verna" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
  
   ![Snake animation](https://github.com/rodrigo-verna/rodrigo-verna/blob/output/github-contribution-grid-snake.svg)
  
