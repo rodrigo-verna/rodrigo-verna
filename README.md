@@ -1,6 +1,7 @@
 # Hi there, I'm Rodrigo Verna 
 
- **MSc Candidate & Researcher in Computer Science @ UNESP |  **Bioinformatics** |  **Computational Agriculture** |  **Computational Intelligence**
+ **MSc Candidate & Researcher in Computer Science @ UNESP 
+ | **Bioinformatics** |  **Computational Agriculture** |  **Computational Intelligence**
 
 ---
 
