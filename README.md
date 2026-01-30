@@ -20,3 +20,26 @@ I'm a Computer Science researcher at São Paulo State University (UNESP), workin
 ##  Research Interests
 
 **Computational Intelligence** -> Applied to **Bioinformatics** -> Solving problems in **Agriculture & Biology**
+
+## Technical Skills
+
+### Computational Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
+
+**Algorithms:** Random Forest · SVM · XGBoost · Neural Networks · Feature Selection · Ensemble Methods
+
+### Bioinformatics & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+
+**Tools:** BioPython · STING_RDB · PDB · CD-HIT · SHAP · Statistical Analysis
+
+### Software Engineering
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Stack:** ETL Pipelines · Database Design · Version Control · Documentation
+
